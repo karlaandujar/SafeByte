@@ -93,7 +93,7 @@ function computeHallRisk(items) {
   items.forEach(it => {
     const hall = it.hallName || "Unknown Hall";
     if (!grouped[hall]) {
-      grouped[hall] = { hallName: hall, items: [], totalScore: 0 };
+      grouped[hall] = { hallName: hall, items: [], totalScore: 10 };
     }
     grouped[hall].items.push(it);
     grouped[hall].totalScore += it.risk.rawScore;
