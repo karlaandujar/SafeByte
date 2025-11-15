@@ -31,7 +31,7 @@
     "id": 18,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Milk, Chocolate",
-    "allergens": [milk, egg],
+    "allergens": [],
     "ingredients": ""
   },
   {
