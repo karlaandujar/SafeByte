@@ -1,0 +1,6204 @@
+[
+  {
+    "id": 1,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Crispy Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 2,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Fruity Pebbles",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 3,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Rice Chex",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 4,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "BBQ Sauce Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 5,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Honey Mustard Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 6,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ketchup Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 7,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Mayo Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 8,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ranch Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 9,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Texas Pete Hot Sauce Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 10,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Yellow Mustard Dispenser",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 11,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Berry Colossal Crunch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 12,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Cornflakes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 13,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Honey Nut Toasty O's",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 14,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Lucky Charms",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 15,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Raisin Bran",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 16,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "100% Orange Juice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 17,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Apple Juice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 18,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Milk, Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 19,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Milk, Skim",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 20,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Milk, Whole",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 21,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Soy Milk, Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 22,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Soy Milk, Vanilla",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 23,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Unsweetened Almond Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 24,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Breakfast Quinoa w/ Raisins GF",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 25,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Chicken Sausage",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 26,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "GF Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 27,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "GF Hash Browns",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 28,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "GF Scrambled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 29,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "GF Steamed Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 30,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Pancakes, Cornmeal Gluten Free",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 31,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 32,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 33,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cheese and Garlic Grits",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 34,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cinnamon Apples",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 35,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Home Fried Redskin Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 36,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Sausage Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 37,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Sausage Links",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 38,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Scrambled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 39,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Steamed Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 40,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Traditional French Toast",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 41,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Focaccia Breadstick",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 42,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Alfredo Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 43,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bowtie Pasta",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 44,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cheese Breadsticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 45,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cheese Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 46,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Italian Meat Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 47,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Marinara Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 48,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Pepperoni Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 49,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Whole Wheat Spaghetti",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 50,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Gluten Free Waffle",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 51,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Pepper Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 52,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Brown Rice & Quinoa",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 53,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Chocolate Mousse",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 54,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Feta Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 55,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fresh Diced Tomatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 56,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fresh Spinach",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 57,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Hummus",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 58,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Mixed Greens",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 59,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Olive Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 60,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Pita Bread, Whole Wheat",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 61,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Red Kidney Beans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 62,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Roasted Red Pepper Hummus",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 63,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Roasted Red Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 64,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Shredded Vegan Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 65,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Tabouleh",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 66,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Tofu",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 67,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Whole Wheat Tortilla for Wraps and Burritos",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 68,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fried Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 69,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Roasted Sweet Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 70,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Steamed Fresh Broccoli",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 71,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Whole Kernel Corn",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 72,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "1000 Island",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 73,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bacon Bits",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 74,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bleu Cheese Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 75,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Broccoli Buds",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 76,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cheese, Shredded Cheddar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 77,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Croutons",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 78,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Dinner Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 79,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fire Braised Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 80,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Grape Tomatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 81,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Italian Salad Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 82,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Multigrain Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 83,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ranch Salad Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 84,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Red Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 85,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Salad Dressing, French",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 86,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Salad Oil & Vinegar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 87,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Shredded Carrots",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 88,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Sliced Cucumbers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 89,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cereal, Oatmeal",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 90,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Apple Tart",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 91,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Assorted Chocolate and Vanilla Cake Donuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 92,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Brownie w/o Nuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 93,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Brownie, Reese's Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 94,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Chai Spice Coffee Cake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 95,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cherry Cordial Blondie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 96,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Chocolate Coffee Cake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 97,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cream Cheese Brownies",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 98,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Dirt Cup, Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 99,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Donuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 100,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Funfetti Cake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 101,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "German Chocolate Brownie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 102,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Make your own Waffle",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 103,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Marbled Pound Cake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 104,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Medium Vegan Java Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 105,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Mississippi Mud Tart",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 106,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Muffin, Blueberry Medium",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 107,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Muffin, Chocolate Medium",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 108,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Peanut Butter Tart",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 109,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Small David's Chocolate Chip Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 110,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Small David's M&M Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 111,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Small David's Molasses Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 112,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Small David's Sugar Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 113,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Small Davids Oatmeal Raisin Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 114,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Sugar Free Gelatin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 115,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Syrup, Maple Flavored",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 116,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Triple Chocolate Cake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 117,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ice Cream Cone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 118,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ice Milk Soft Serve Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 119,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Ice Milk Soft Serve Vanilla",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 120,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fresh Pineapple",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 121,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fresh Red Grapes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 122,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Fresh Strawberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 123,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Tropical Fruit Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 124,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "White Grapes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 125,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Blueberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 126,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Butter",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 127,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cottage Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 128,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Cream Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 129,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Diced Strawberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 130,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Grape Jelly",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 131,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Peach Slices",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 132,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Peanut Butter",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 133,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Vanilla Greek Yogurt",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 134,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Yogurt, Strawberry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 135,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Almonds, Sliced",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 136,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Chopped Pecans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 137,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Coconut",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 138,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Craisins",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 139,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Honey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 140,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Low Fat Granola Cereal",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 141,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Raisins",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 142,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Topping, Mini Chocolate Chips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 143,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Walnuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 144,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bagel, Blueberry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 145,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bagel, Cinnamon Raisin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 146,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bagel, Whole Wheat",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 147,
+    "hallName": "D2 at Dietrick Hall",
+    "itemName": "Bagels",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 148,
+    "hallName": "Deet's Place",
+    "itemName": "Asiago Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 149,
+    "hallName": "Deet's Place",
+    "itemName": "Blueberry Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 150,
+    "hallName": "Deet's Place",
+    "itemName": "Cinnamon Raisin Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 151,
+    "hallName": "Deet's Place",
+    "itemName": "Everything Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 152,
+    "hallName": "Deet's Place",
+    "itemName": "Plain Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 153,
+    "hallName": "Deet's Place",
+    "itemName": "Whole Wheat Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 154,
+    "hallName": "Deet's Place",
+    "itemName": "Apple Butter Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 155,
+    "hallName": "Deet's Place",
+    "itemName": "Apple Cinnamon Pecan Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 156,
+    "hallName": "Deet's Place",
+    "itemName": "Blueberry Cheescake Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 157,
+    "hallName": "Deet's Place",
+    "itemName": "Blueberry Crumb Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 158,
+    "hallName": "Deet's Place",
+    "itemName": "Butter Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 159,
+    "hallName": "Deet's Place",
+    "itemName": "Chocolate Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 160,
+    "hallName": "Deet's Place",
+    "itemName": "Cream Cheese Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 161,
+    "hallName": "Deet's Place",
+    "itemName": "Decadent Chocolate Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 162,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Bacon Egg & Cheese English Muffin Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 163,
+    "hallName": "Deet's Place",
+    "itemName": "Pumpkin Spice Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 164,
+    "hallName": "Deet's Place",
+    "itemName": "Roll, Cinnamon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 165,
+    "hallName": "Deet's Place",
+    "itemName": "Scone, Blueberry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 166,
+    "hallName": "Deet's Place",
+    "itemName": "Scone, Cinnamon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 167,
+    "hallName": "Deet's Place",
+    "itemName": "Strawberry Cheescake Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 168,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Brewed Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 169,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Iced Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 170,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Brewed Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 171,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Iced Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 172,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Brewed Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 173,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Iced Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 174,
+    "hallName": "Deet's Place",
+    "itemName": "Espresso Shot",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 175,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Chai",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 176,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Chai",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 177,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Chai",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 178,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Americano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 179,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Americano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 180,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Americano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 181,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Cappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 182,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Cappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 183,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Cappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 184,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Caramel Macchiato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 185,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Caramel Macchiato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 186,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Caramel Macchiato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 187,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Hot Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 188,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Hot Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 189,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Hot Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 190,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Flavored Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 191,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 192,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Flavored Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 193,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 194,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Flavored Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 195,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 196,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Mocha Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 197,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Mocha Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 198,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Mocha Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 199,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Phrappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 200,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Phrappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 201,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Phrappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 202,
+    "hallName": "Deet's Place",
+    "itemName": "12 oz Cold Brew Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 203,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Cold Brew Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 204,
+    "hallName": "Deet's Place",
+    "itemName": "20 oz Cold Brew Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 205,
+    "hallName": "Deet's Place",
+    "itemName": "16 oz Italian Soda",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 206,
+    "hallName": "Deet's Place",
+    "itemName": "Assorted Herbal Hot Tea",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 207,
+    "hallName": "Deet's Place",
+    "itemName": "Berry Berry Tea Concentrate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 208,
+    "hallName": "Deet's Place",
+    "itemName": "Decaf Earl Grey Tea Concentrate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 209,
+    "hallName": "Deet's Place",
+    "itemName": "Hibiscus Tea Concentrate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 210,
+    "hallName": "Deet's Place",
+    "itemName": "Jasmine Tea Concentrate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 211,
+    "hallName": "Deet's Place",
+    "itemName": "Almond Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 212,
+    "hallName": "Deet's Place",
+    "itemName": "Half and Half",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 213,
+    "hallName": "Deet's Place",
+    "itemName": "Oat Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 214,
+    "hallName": "Deet's Place",
+    "itemName": "Skim Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 215,
+    "hallName": "Deet's Place",
+    "itemName": "Soy Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 216,
+    "hallName": "Deet's Place",
+    "itemName": "Whole Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 217,
+    "hallName": "Deet's Place",
+    "itemName": "Apple Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 218,
+    "hallName": "Deet's Place",
+    "itemName": "Blackberry Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 219,
+    "hallName": "Deet's Place",
+    "itemName": "Caramel Italian Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 220,
+    "hallName": "Deet's Place",
+    "itemName": "Cherry Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 221,
+    "hallName": "Deet's Place",
+    "itemName": "Cinnamon Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 222,
+    "hallName": "Deet's Place",
+    "itemName": "Hazelnut Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 223,
+    "hallName": "Deet's Place",
+    "itemName": "Huckleberry Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 224,
+    "hallName": "Deet's Place",
+    "itemName": "Irish Creme Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 225,
+    "hallName": "Deet's Place",
+    "itemName": "Passion Fruit Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 226,
+    "hallName": "Deet's Place",
+    "itemName": "Peach Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 227,
+    "hallName": "Deet's Place",
+    "itemName": "Raspberry Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 228,
+    "hallName": "Deet's Place",
+    "itemName": "Strawberry Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 229,
+    "hallName": "Deet's Place",
+    "itemName": "Sugar Free Caramel Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 230,
+    "hallName": "Deet's Place",
+    "itemName": "Sugar Free Sweetener Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 231,
+    "hallName": "Deet's Place",
+    "itemName": "Sugar Free Vanilla Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 232,
+    "hallName": "Deet's Place",
+    "itemName": "Tiramisu Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 233,
+    "hallName": "Deet's Place",
+    "itemName": "Toasted Marshmallow Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 234,
+    "hallName": "Deet's Place",
+    "itemName": "Vanilla Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 235,
+    "hallName": "Deet's Place",
+    "itemName": "Chicken Noodle Soup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 236,
+    "hallName": "Deet's Place",
+    "itemName": "Flatbread Panini, Cheese Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 237,
+    "hallName": "Deet's Place",
+    "itemName": "Flatbread Panini, Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 238,
+    "hallName": "Deet's Place",
+    "itemName": "Panini, Mozzarella",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 239,
+    "hallName": "Deet's Place",
+    "itemName": "Panini, Southwest Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 240,
+    "hallName": "Deet's Place",
+    "itemName": "Apple Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 241,
+    "hallName": "Deet's Place",
+    "itemName": "Chocolate Meringue Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 242,
+    "hallName": "Deet's Place",
+    "itemName": "Crumb Cake, Apple Caramel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 243,
+    "hallName": "Deet's Place",
+    "itemName": "Crumb Cake, Raspberry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 244,
+    "hallName": "Deet's Place",
+    "itemName": "Fruit of the Forest Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 245,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Double Chocolate Brownie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 246,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Espresso Brownie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 247,
+    "hallName": "Deet's Place",
+    "itemName": "GNG German Chocolate Brownie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 248,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Lemon Blueberry Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 249,
+    "hallName": "Deet's Place",
+    "itemName": "GNG M&M Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 250,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Red Velvet Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 251,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Reese's Brownie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 252,
+    "hallName": "Deet's Place",
+    "itemName": "GNG SMORES COOKIE",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 253,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Salted Caramel Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 254,
+    "hallName": "Deet's Place",
+    "itemName": "GNG Triple Chocolate Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 255,
+    "hallName": "Deet's Place",
+    "itemName": "Reese's Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 256,
+    "hallName": "Deet's Place",
+    "itemName": "Chocolate Chip Cookie Dough Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 257,
+    "hallName": "Deet's Place",
+    "itemName": "Chocolate Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 258,
+    "hallName": "Deet's Place",
+    "itemName": "Cookies and Cream Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 259,
+    "hallName": "Deet's Place",
+    "itemName": "Graham Central Station Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 260,
+    "hallName": "Deet's Place",
+    "itemName": "Green Mint Chip Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 261,
+    "hallName": "Deet's Place",
+    "itemName": "Lemon Sorbet",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 262,
+    "hallName": "Deet's Place",
+    "itemName": "Lil' Blue Panda Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 263,
+    "hallName": "Deet's Place",
+    "itemName": "Raspberry Sorbet",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 264,
+    "hallName": "Deet's Place",
+    "itemName": "Strawberry Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 265,
+    "hallName": "Deet's Place",
+    "itemName": "Vanilla Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 266,
+    "hallName": "Deet's Place",
+    "itemName": "Caramel Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 267,
+    "hallName": "Deet's Place",
+    "itemName": "Hot Fudge Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 268,
+    "hallName": "Deet's Place",
+    "itemName": "Strawberry Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 269,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Hershey's Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 270,
+    "hallName": "Deet's Place",
+    "itemName": "Whipped Topping",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 271,
+    "hallName": "Deet's Place",
+    "itemName": "Bursting Blueberry Boba",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 272,
+    "hallName": "Deet's Place",
+    "itemName": "Maraschino Cherry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 273,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Butterfinger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 274,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Heath Bar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 275,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, M & M's",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 276,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Mini Chocolate Chips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 277,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Oreo Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 278,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Rainbow Sprinkles",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 279,
+    "hallName": "Deet's Place",
+    "itemName": "Topping, Reese's Pieces",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 280,
+    "hallName": "Deet's Place",
+    "itemName": "Banana Split",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 281,
+    "hallName": "Deet's Place",
+    "itemName": "Ice Cream Soda",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 282,
+    "hallName": "Deet's Place",
+    "itemName": "Ice Cream Sundae, Large",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 283,
+    "hallName": "Deet's Place",
+    "itemName": "Ice Cream Sundae, Small",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 284,
+    "hallName": "Deet's Place",
+    "itemName": "Ice Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 285,
+    "hallName": "Deet's Place",
+    "itemName": "Milkshake, Average",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 286,
+    "hallName": "Deet's Place",
+    "itemName": "Waffle Cone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 287,
+    "hallName": "DX",
+    "itemName": "Asian Chicken Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 288,
+    "hallName": "DX",
+    "itemName": "Buffalo Chicken Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 289,
+    "hallName": "DX",
+    "itemName": "Cheddar Bacon Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 290,
+    "hallName": "DX",
+    "itemName": "Chicken Parm Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 291,
+    "hallName": "DX",
+    "itemName": "Bacon Double Cheeseburger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 292,
+    "hallName": "DX",
+    "itemName": "Double Cheeseburger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 293,
+    "hallName": "DX",
+    "itemName": "Quarter Pound Bacon Cheeseburger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 294,
+    "hallName": "DX",
+    "itemName": "Quarter Pound Cheeseburger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 295,
+    "hallName": "DX",
+    "itemName": "Quarter Pound Hamburger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 296,
+    "hallName": "DX",
+    "itemName": "Chicken Patty Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 297,
+    "hallName": "DX",
+    "itemName": "Chicken Patty/Cheese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 298,
+    "hallName": "DX",
+    "itemName": "Spicy Chicken Filet Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 299,
+    "hallName": "DX",
+    "itemName": "Spicy Chicken Filet/Cheese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 300,
+    "hallName": "DX",
+    "itemName": "Chicken Tenders",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 301,
+    "hallName": "DX",
+    "itemName": "Corn Dog Nuggets",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 302,
+    "hallName": "DX",
+    "itemName": "French Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 303,
+    "hallName": "DX",
+    "itemName": "Incogmeato Tenders",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 304,
+    "hallName": "DX",
+    "itemName": "Mozzarella Sticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 305,
+    "hallName": "DX",
+    "itemName": "Cheese Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 306,
+    "hallName": "DX",
+    "itemName": "Pepperoni Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 307,
+    "hallName": "DX",
+    "itemName": "Supreme Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 308,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Bacon Breakfast Burrito with Black Beans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 309,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Brioche with Bacon, Egg, and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 310,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Brioche with Egg and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 311,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Sausage, Egg, and Cheese Brioche Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 312,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Egg, Cheese & Black Bean Breakfast Burrito",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 313,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sausage and Black Bean Breakfast Burrito",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 314,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Quiche Lorraine",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 315,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Spinach Feta Quiche",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 316,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Apple Stuffed Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 317,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Bacon, Egg, and Cheese Stuffed Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 318,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Boston Cream Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 319,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Butter Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 320,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chocolate Dipped Strawberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 321,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chocolatine Pastry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 322,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Cinnamon Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 323,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Cream Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 324,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "French Silk Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 325,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Key Lime Pastry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 326,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Leek and Parmesan Bistro",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 327,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Lemon Meringue Pie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 328,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Maple Pecan Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 329,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Margherita Bistro",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 330,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Plain Cheesecake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 331,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Spinach and Feta Bistro",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 332,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Triple Chocolate Cheesecake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 333,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Bacon, Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 334,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Bacon, Egg and Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 335,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Sausage, Egg and Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 336,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Sausage, Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 337,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 338,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Egg and Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 339,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Plant Based Patty, Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 340,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Plant Based Patty, Egg and Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 341,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Coffee, 12oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 342,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Coffee, 16oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 343,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Americano, 12oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 344,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Americano, 16oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 345,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Cappuccino, 12oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 346,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Cappuccino, 16oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 347,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Chocolate with Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 348,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Latte, 12oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 349,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hot Latte, 16oz",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 350,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Iced Americano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 351,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Iced Cappuccino",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 352,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Iced Latte",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 353,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Red Rooster Espresso Shot",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 354,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Almond Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 355,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Espresso Shot",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 356,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Flavored Syrups",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 357,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Oat Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 358,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Soy Milk",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 359,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Biscuits",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 360,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Buttermilk Pancake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 361,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Sausage Links",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 362,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hashbrown Triangle",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 363,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sausage Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 364,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Scrambled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 365,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 366,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Biscuit and Sausage Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 367,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Biscuit with Bacon, Egg, and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 368,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Biscuit with Egg and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 369,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Biscuit with Sausage, Egg, and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 370,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Brioche with Sausage, Egg, and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 371,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Ancho Lime Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 372,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chili-Rubbed Flank Steak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 373,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Pork Carnitas",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 374,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Southwestern Lentils",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 375,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Cilantro Lime Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 376,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Latin Black Beans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 377,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Cantina Salsa",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 378,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chipotle Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 379,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chopped Cilantro",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 380,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Grilled Bell Peppers and Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 381,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Guacamole",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 382,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Lime Wedge",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 383,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Pico de Gallo",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 384,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Salsa Verde",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 385,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Shredded Iceberg Lettuce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 386,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Fresh Jalapenos",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 387,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sour Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 388,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Shredded Pepper Jack Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 389,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Vegan Shredded Cheddar Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 390,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Falafel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 391,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Gyro Meat",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 392,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Mediterranean Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 393,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Butter Beans (Gigantes Plaki)",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 394,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Mixed Greens",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 395,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Turmeric Spiced Basmati Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 396,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chopped Kalamata Olives",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 397,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Classic Hummus",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 398,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Diced Red Onion",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 399,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Feta Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 400,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Fresh Diced Tomatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 401,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Green Zhug",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 402,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Lemon Wedge",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 403,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Marinated Peppers & Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 404,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Naan Bread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 405,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Tzatziki Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 406,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Firecracker Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 407,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "General Tso's Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 408,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Tofu Stir Fry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 409,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Hakka Noodles",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 410,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Jasmine Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 411,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "3pc Kale and Veggie Potstickers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 412,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Steamed Fresh Broccoli",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 413,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Vegetable Egg Rolls",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 414,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Pork and Beef Meatballs with Marinara",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 415,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Penne",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 416,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Spaghetti",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 417,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Alfredo Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 418,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Bolognese Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 419,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Lentil Bolognese Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 420,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Marinara Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 421,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Garlic Breadsticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 422,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Za'atar Roasted Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 423,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Bacon Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 424,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Fantastic Frank",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 425,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Halal Beef Meatball Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 426,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "K.D. #78",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 427,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Special Teams",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 428,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "The Blocked Kick",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 429,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "The Defensive Back",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 430,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "The Lunch Pail",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 431,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "The Red Zone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 432,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Halal Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 433,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Ham",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 434,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Pastrami",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 435,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 436,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Roast Beef",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 437,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Salami",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 438,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Turkey Breast",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 439,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Cheddar Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 440,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Pepperjack Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 441,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Provolone Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 442,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Swiss Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 443,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Banana Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 444,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Oregano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 445,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Red Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 446,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Roasted Red Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 447,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Tomato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 448,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "'Beamer' Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 449,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "1000 Island",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 450,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Fat Free Italian",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 451,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "House Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 452,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Mayonnaise",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 453,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Oil and Vinegar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 454,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Pesto Mayonnaise",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 455,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Spicy Brown Mustard",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 456,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Yellow Mustard",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 457,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Focaccia Bun",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 458,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Rye Bread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 459,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sourdough Bread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 460,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Wheat Hoagie Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 461,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "White Hoagie Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 462,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Asian Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 463,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Caesar Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 464,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Chicken Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 465,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Greek Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 466,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "House Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 467,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Potato Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 468,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Side Caesar Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 469,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Side House Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 470,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Sliced Grilled Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 471,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Tortellini Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 472,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Tuna Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 473,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Yogurt Bar w/ Toppings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 474,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Loaded Baked Potato Soup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 475,
+    "hallName": "Food Court / Hokie Grill at Owens",
+    "itemName": "Tomato Basil Bisque",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 476,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cereal, Oatmeal",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 477,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Vanilla Greek Yogurt",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 478,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Yogurt, Strawberry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 479,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Blueberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 480,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Diced Strawberries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 481,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Peach Slices",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 482,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Coconut",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 483,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Honey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 484,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Low Fat Granola Cereal",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 485,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Praline Pecans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 486,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Topping, Mini Chocolate Chips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 487,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Topping, Oreo Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 488,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Breakfast Bowl/Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 489,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Home Fried Redskin Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 490,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Roasted Sweet Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 491,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Tater Tots",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 492,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cheese Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 493,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Chipped Beef Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 494,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Pepper Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 495,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 496,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Chicken Sausage",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 497,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Chik'n Strips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 498,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cooked Diced Ham for Bar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 499,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Scrambled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 500,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Black Beans",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 501,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Diced Avocado",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 502,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Fresh Spinach",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 503,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Monterey Jack & Cheddar Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 504,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Pico de Gallo",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 505,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Sour Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 506,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Avocado BLT Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 507,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Bayou Chicken Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 508,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Chicken Bacon Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 509,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Hokie Club",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 510,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Italiano Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 511,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Meatball Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 512,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Philly Cheesesteak Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 513,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" Pizza Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 514,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Avocado BLT Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 515,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Bayou Chicken Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 516,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Chicken Bacon Ranch Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 517,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Hokie Club",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 518,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Italiano Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 519,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Philly Cheesesteak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 520,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Pizza Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 521,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Meatball Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 522,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" BYO Chicken Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 523,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" BYO Ham Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 524,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" BYO Roast Beef Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 525,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" BYO Salami Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 526,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "6\" BYO Turkey Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 527,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Veggie Deluxe Sub 12\"",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 528,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Veggie Deluxe Sub 6\"",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 529,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" BYO Chicken Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 530,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" BYO Ham Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 531,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" BYO Roast Beef Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 532,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" BYO Salami Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 533,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" BYO Turkey Sub",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 534,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "12\" Wheat Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 535,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Plain Tortilla for Wraps and Burritos",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 536,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "White Hoagie Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 537,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "2 Slices Extra Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 538,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "4 Slices Extra Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 539,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Extra Ham",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 540,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Extra Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 541,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Extra Roast Beef",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 542,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Extra Salami",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 543,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Extra Turkey Breast",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 544,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cheddar Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 545,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cheese, American",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 546,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Pepperjack Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 547,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Provolone Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 548,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Shredded Mozzarella",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 549,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Sliced Muenster Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 550,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Swiss Cheese Sliced",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 551,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Banana Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 552,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Black Olives",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 553,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Cucumbers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 554,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "DILL PICKLE CHIPS",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 555,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Green Pepper Strips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 556,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Pickled Jalapenos",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 557,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Shredded Iceberg Lettuce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 558,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Sliced Tomatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 559,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "BBQ Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 560,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Buffalo Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 561,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Chipotle Mayo",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 562,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Honey Mustard",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 563,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Mayonnaise",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 564,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Roasted Garlic Parmesan Aioli",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 565,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Salad Dressing, Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 566,
+    "hallName": "Future Bites at Xpress Lane",
+    "itemName": "Salad Oil & Vinegar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 567,
+    "hallName": "Squires Food Court",
+    "itemName": "Double Bacon, Egg and Cheese Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 568,
+    "hallName": "Squires Food Court",
+    "itemName": "Double Bacon, Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 569,
+    "hallName": "Squires Food Court",
+    "itemName": "Egg and Cheese Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 570,
+    "hallName": "Squires Food Court",
+    "itemName": "Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 571,
+    "hallName": "Squires Food Court",
+    "itemName": "French Toast Sticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 572,
+    "hallName": "Squires Food Court",
+    "itemName": "Ham and Cheese Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 573,
+    "hallName": "Squires Food Court",
+    "itemName": "Ham and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 574,
+    "hallName": "Squires Food Court",
+    "itemName": "Sausage Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 575,
+    "hallName": "Squires Food Court",
+    "itemName": "Sausage, Egg and Cheese Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 576,
+    "hallName": "Squires Food Court",
+    "itemName": "Sausage, Egg and Cheese Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 577,
+    "hallName": "Squires Food Court",
+    "itemName": "Apple Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 578,
+    "hallName": "Squires Food Court",
+    "itemName": "Blueberry Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 579,
+    "hallName": "Squires Food Court",
+    "itemName": "Blueberry Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 580,
+    "hallName": "Squires Food Court",
+    "itemName": "Butter Chocolatine",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 581,
+    "hallName": "Squires Food Court",
+    "itemName": "Butter Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 582,
+    "hallName": "Squires Food Court",
+    "itemName": "Chocolate Chip Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 583,
+    "hallName": "Squires Food Court",
+    "itemName": "Chocolate Hazlenut Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 584,
+    "hallName": "Squires Food Court",
+    "itemName": "Cinnamon Coffee Muffin",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 585,
+    "hallName": "Squires Food Court",
+    "itemName": "Cinnamon Raisin Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 586,
+    "hallName": "Squires Food Court",
+    "itemName": "Cinnamon Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 587,
+    "hallName": "Squires Food Court",
+    "itemName": "Cream Cheese Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 588,
+    "hallName": "Squires Food Court",
+    "itemName": "Everything Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 589,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Assorted Vanilla Cake Donuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 590,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Chocolate Cake Donuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 591,
+    "hallName": "Squires Food Court",
+    "itemName": "Ham and Swiss Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 592,
+    "hallName": "Squires Food Court",
+    "itemName": "Jalapeno Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 593,
+    "hallName": "Squires Food Court",
+    "itemName": "Plain Bagel",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 594,
+    "hallName": "Squires Food Court",
+    "itemName": "Spinach and Feta Pastry",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 595,
+    "hallName": "Squires Food Court",
+    "itemName": "Strawberry Cheesecake Danish",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 596,
+    "hallName": "Squires Food Court",
+    "itemName": "Croissant",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 597,
+    "hallName": "Squires Food Court",
+    "itemName": "Southern Style Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 598,
+    "hallName": "Squires Food Court",
+    "itemName": "Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 599,
+    "hallName": "Squires Food Court",
+    "itemName": "Egg Puck",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 600,
+    "hallName": "Squires Food Court",
+    "itemName": "Philly Steak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 601,
+    "hallName": "Squires Food Court",
+    "itemName": "Sausage Patty",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 602,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Ham",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 603,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced White Cheddar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 604,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Decorated Shortbread Cookies",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 605,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Lemon Blueberry Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 606,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG M&M Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 607,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Mini Tiramisu",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 608,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Red Velvet Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 609,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG SMORES COOKIE",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 610,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Salted Caramel Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 611,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Spiced Cranberry Orange Mousse Cup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 612,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Triple Chocolate Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 613,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Vegan Chocolate Chip Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 614,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Vegan Orange Cranberry Cookie",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 615,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG White Chocolate Mousse with Berries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 616,
+    "hallName": "Squires Food Court",
+    "itemName": "Vegan Chocolate Cake Slice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 617,
+    "hallName": "Squires Food Court",
+    "itemName": "Hot Grab and Go Caprese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 618,
+    "hallName": "Squires Food Court",
+    "itemName": "Hot Grab and Go Chipotle Chicken Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 619,
+    "hallName": "Squires Food Court",
+    "itemName": "KC Crusher Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 620,
+    "hallName": "Squires Food Court",
+    "itemName": "Philly Cheesesteak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 621,
+    "hallName": "Squires Food Court",
+    "itemName": "Sicilian Sizzle Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 622,
+    "hallName": "Squires Food Court",
+    "itemName": "The Beast Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 623,
+    "hallName": "Squires Food Court",
+    "itemName": "Turkey Trot Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 624,
+    "hallName": "Squires Food Court",
+    "itemName": "Amoroso Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 625,
+    "hallName": "Squires Food Court",
+    "itemName": "Country White Bread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 626,
+    "hallName": "Squires Food Court",
+    "itemName": "Whole Grain Bread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 627,
+    "hallName": "Squires Food Court",
+    "itemName": "Oven Roasted Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 628,
+    "hallName": "Squires Food Court",
+    "itemName": "Oven Roasted Turkey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 629,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Capicola",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 630,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 631,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 632,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Salami",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 633,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Turkey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 634,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Pepperjack",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 635,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Provolone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 636,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Whole Milk Mozzarella",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 637,
+    "hallName": "Squires Food Court",
+    "itemName": "Ancho Chipotle",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 638,
+    "hallName": "Squires Food Court",
+    "itemName": "BBQ Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 639,
+    "hallName": "Squires Food Court",
+    "itemName": "Balsalmic Glaze",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 640,
+    "hallName": "Squires Food Court",
+    "itemName": "Horseradish Aioli",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 641,
+    "hallName": "Squires Food Court",
+    "itemName": "Mayonnaise",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 642,
+    "hallName": "Squires Food Court",
+    "itemName": "Mustard",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 643,
+    "hallName": "Squires Food Court",
+    "itemName": "Oil and Vinegar for Sandwiches",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 644,
+    "hallName": "Squires Food Court",
+    "itemName": "Pesto",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 645,
+    "hallName": "Squires Food Court",
+    "itemName": "Avocado",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 646,
+    "hallName": "Squires Food Court",
+    "itemName": "Banana Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 647,
+    "hallName": "Squires Food Court",
+    "itemName": "Dill Pickle Spear",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 648,
+    "hallName": "Squires Food Court",
+    "itemName": "Mesclun Greens",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 649,
+    "hallName": "Squires Food Court",
+    "itemName": "Oregano",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 650,
+    "hallName": "Squires Food Court",
+    "itemName": "Red Sliced Onion",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 651,
+    "hallName": "Squires Food Court",
+    "itemName": "Shredded Romaine Lettuce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 652,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Cucumber",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 653,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Red Pepper",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 654,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Tomato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 655,
+    "hallName": "Squires Food Court",
+    "itemName": "Cold Grab and Go Caprese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 656,
+    "hallName": "Squires Food Court",
+    "itemName": "Cold Grab and Go Chipotle Chicken Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 657,
+    "hallName": "Squires Food Court",
+    "itemName": "Cold Grab and Go Sicilian Sizzle Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 658,
+    "hallName": "Squires Food Court",
+    "itemName": "Cold Grab and Go The Beast Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 659,
+    "hallName": "Squires Food Court",
+    "itemName": "Cold Grab and Go Turkey Avocado BLT Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 660,
+    "hallName": "Squires Food Court",
+    "itemName": "Power Veggie Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 661,
+    "hallName": "Squires Food Court",
+    "itemName": "Cobb Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 662,
+    "hallName": "Squires Food Court",
+    "itemName": "Good Greens Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 663,
+    "hallName": "Squires Food Court",
+    "itemName": "Green Dream Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 664,
+    "hallName": "Squires Food Court",
+    "itemName": "Spinach and Strawberry Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 665,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Oven Roasted Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 666,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Oven Roasted Turkey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 667,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 668,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Capicola",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 669,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 670,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Ham",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 671,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Pepperoni",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 672,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Roast Beef",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 673,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Salami",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 674,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Sliced Turkey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 675,
+    "hallName": "Squires Food Court",
+    "itemName": "Baguette",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 676,
+    "hallName": "Squires Food Court",
+    "itemName": "Chicken and Dumpling Soup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 677,
+    "hallName": "Squires Food Court",
+    "itemName": "Creamy Broccoli and Cheddar Soup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 678,
+    "hallName": "Squires Food Court",
+    "itemName": "Mac and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 679,
+    "hallName": "Squires Food Court",
+    "itemName": "Tomato Basil Soup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 680,
+    "hallName": "Squires Food Court",
+    "itemName": "GNG Limoncello Cake Slice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 681,
+    "hallName": "Squires Food Court",
+    "itemName": "B1",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 682,
+    "hallName": "Squires Food Court",
+    "itemName": "B2",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 683,
+    "hallName": "Squires Food Court",
+    "itemName": "B3",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 684,
+    "hallName": "Squires Food Court",
+    "itemName": "B4",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 685,
+    "hallName": "Squires Food Court",
+    "itemName": "B5",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 686,
+    "hallName": "Squires Food Court",
+    "itemName": "B6",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 687,
+    "hallName": "Squires Food Court",
+    "itemName": "Honey Fried Chicken Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 688,
+    "hallName": "Squires Food Court",
+    "itemName": "Gluten Free Bun",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 689,
+    "hallName": "Squires Food Court",
+    "itemName": "Green Lettuce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 690,
+    "hallName": "Squires Food Court",
+    "itemName": "Potato Roll",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 691,
+    "hallName": "Squires Food Court",
+    "itemName": "Burger Patty",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 692,
+    "hallName": "Squires Food Court",
+    "itemName": "Fried Chicken Patty Add On",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 693,
+    "hallName": "Squires Food Court",
+    "itemName": "Grilled Chicken Patty Add On",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 694,
+    "hallName": "Squires Food Court",
+    "itemName": "Pesto Turkey Patty Production",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 695,
+    "hallName": "Squires Food Court",
+    "itemName": "Veggie Burger Patty",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 696,
+    "hallName": "Squires Food Court",
+    "itemName": "Cheddar Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 697,
+    "hallName": "Squires Food Court",
+    "itemName": "Pepperjack Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 698,
+    "hallName": "Squires Food Court",
+    "itemName": "Provolone Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 699,
+    "hallName": "Squires Food Court",
+    "itemName": "White American Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 700,
+    "hallName": "Squires Food Court",
+    "itemName": "B37 Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 701,
+    "hallName": "Squires Food Court",
+    "itemName": "French Fried Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 702,
+    "hallName": "Squires Food Court",
+    "itemName": "Fried Egg",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 703,
+    "hallName": "Squires Food Court",
+    "itemName": "Ketchup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 704,
+    "hallName": "Squires Food Court",
+    "itemName": "Pickle Chips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 705,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Jalapeno Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 706,
+    "hallName": "Squires Food Court",
+    "itemName": "Sliced Red Onion",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 707,
+    "hallName": "Squires Food Court",
+    "itemName": "Caramel Apple Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 708,
+    "hallName": "Squires Food Court",
+    "itemName": "Thanksgiving Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 709,
+    "hallName": "Squires Food Court",
+    "itemName": "Thanksgiving Poutine",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 710,
+    "hallName": "Squires Food Court",
+    "itemName": "Beer Cheese Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 711,
+    "hallName": "Squires Food Court",
+    "itemName": "Chili Cheese Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 712,
+    "hallName": "Squires Food Court",
+    "itemName": "French Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 713,
+    "hallName": "Squires Food Court",
+    "itemName": "Sweet Potato Beer Cheese Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 714,
+    "hallName": "Squires Food Court",
+    "itemName": "Sweet Potato Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 715,
+    "hallName": "Squires Food Court",
+    "itemName": "Andes Mint Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 716,
+    "hallName": "Squires Food Court",
+    "itemName": "Chocolate Brownie Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 717,
+    "hallName": "Squires Food Court",
+    "itemName": "Chocolate Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 718,
+    "hallName": "Squires Food Court",
+    "itemName": "Cinnamon Toast Crunch Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 719,
+    "hallName": "Squires Food Court",
+    "itemName": "Cookies and Cream Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 720,
+    "hallName": "Squires Food Court",
+    "itemName": "Fruity Pebbles Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 721,
+    "hallName": "Squires Food Court",
+    "itemName": "Salted Caramel Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 722,
+    "hallName": "Squires Food Court",
+    "itemName": "Strawberry Banana Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 723,
+    "hallName": "Squires Food Court",
+    "itemName": "Strawberry Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 724,
+    "hallName": "Squires Food Court",
+    "itemName": "Vanilla Milkshake",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 725,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Personal Breakfast Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 726,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 727,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Crispy Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 728,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Malted Waffle",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 729,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Malted Waffle w/ Strawberry and Whipped Cream Topping",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 730,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Malted Waffle with Chocolate Sauce & Whipped Cream",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 731,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sausage Links",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 732,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Scrambled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 733,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Turkey Bacon",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 734,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Baked Tofu Bites",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 735,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chicken Tenders",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 736,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Edamame",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 737,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "English Cucumber",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 738,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Fresh Basil",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 739,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Fresh Mint",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 740,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grape Tomatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 741,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Green Chimi Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 742,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 743,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hard Boiled Eggs",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 744,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Jalapeno",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 745,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Kimchi",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 746,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Matchstick Carrots",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 747,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Mushrooms",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 748,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Peanuts",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 749,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Red Onions",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 750,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Red Peppers",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 751,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Salad Lettuce Mix",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 752,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Seared Yellowfin Tuna",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 753,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sesame Seeds",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 754,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Soba Noodles",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 755,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Spicy Sesame Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 756,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "White Cheddar Mac and Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 757,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Cornbread",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 758,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Garlic Bread Sticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 759,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "All American Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 760,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "All American Salad, Side",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 761,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Caesar Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 762,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Caesar Salad w/ Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 763,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Caesar Salad, Side",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 764,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Garden Fruit and Nut Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 765,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Garden Fruit and Nut Salad, Side",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 766,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 767,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hot Chicken Tender Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 768,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Roasted Beet Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 769,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Roasted Beet Side Salad",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 770,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "1000 Island",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 771,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Balsamic Vinaigrette",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 772,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bleu Cheese Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 773,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chipotle Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 774,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Fat Free Italian",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 775,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Honey Mustard Salad Dressing",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 776,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Salad Dressing, Poppyseed",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 777,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Salad Dressing, Ranch",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 778,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Salad Dressing, Tableside Caesar",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 779,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Assorted Herbal Teas",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 780,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Brewed Coffee",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 781,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hot Chocolate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 782,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Biscuit",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 783,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Biscuit with Sausage Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 784,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Blueberry Pancakes & Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 785,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Breakfast Burrito",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 786,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Buttermilk Pancakes & Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 787,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chocolate Chip Pancakes w/ Syrup",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 788,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Omelette",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 789,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Vegan Pancakes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 790,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken Breast",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 791,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hickory Smoked Chicken",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 792,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "London Broil",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 793,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Baked Potato",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 794,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chicken Gravy",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 795,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Garlic Whipped Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 796,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Asparagus",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 797,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Mushroom Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 798,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Roasted Multi-Colored Carrots",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 799,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Roasted Ranch Red Skin Potatoes",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 800,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Roasted Root Vegetables",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 801,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Seasoned Steamed Broccoli",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 802,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Wild Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 803,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled 12 oz Ribeye Steak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 804,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "1/4 Pound All Beef Hotdog",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 805,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bacon Cheese Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 806,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bacon, Egg and Cheese Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 807,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Becky's Kickin' Chicken Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 808,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Black Bean Burger with Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 809,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Burger, Hickory",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 810,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Burger, Monterey",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 811,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Cheese Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 812,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Fried Chicken Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 813,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hawaiian Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 814,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hawaiian Chicken Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 815,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hot Dog Chili",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 816,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Spicy Chicken Hawaiian Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 817,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sports Bar Burger",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 818,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Wheat Bun",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 819,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in BBQ Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 820,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in Buffalo Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 821,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in Caribbean Jerk Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 822,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in Carolina Reaper Buffalo Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 823,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in Chili Gochujang Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 824,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Bone-in Kickin' Bourbon Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 825,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Buffalo Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 826,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Caribbean Jerk Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 827,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Carolina Reaper Buffalo Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 828,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Gochujang Chili Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 829,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Honey BBQ Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 830,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Boneless Kickin' Bourbon Wings",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 831,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hokie Tenders",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 832,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Cheese Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 833,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Half Basket Cheese Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 834,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Half Basket Steak Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 835,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Mozzarella Cheese Sticks",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 836,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Steak Fries",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 837,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Tater Tots",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 838,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Gluten Free Spaghetti",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 839,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Pasta, Rotini",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 840,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Pasta, Sm. Plate: Rotini",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 841,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Small Gluten Free Spaghetti",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 842,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Spaghetti",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 843,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Spaghetti, Small Plate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 844,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Tri-color Tortellini",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 845,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Tri-color Tortellini, Small Plate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 846,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Alfredo Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 847,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Alfredo Sauce, Small Plate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 848,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Blush Sauce Small",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 849,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Blush Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 850,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Marinara Sauce",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 851,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Marinara Sauce, Small Plate",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 852,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sauce, Meat Marinara",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 853,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sauce, Sm. Plate: Meat Marinara",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 854,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Four Cheese Personal Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 855,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hot Honey Sausage Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 856,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Margherita Personal Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 857,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Pepperoni Calzone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 858,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Pepperoni Personal Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 859,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Supreme Calzone",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 860,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Supreme Personal Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 861,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Vegan Cheese Personal Pizza",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 862,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken Add-On",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 863,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Breaded Chicken Strips",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 864,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Creme Brulee variety",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 865,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Buffalo Chicken Tender Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 866,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Buffalo Chik'n Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 867,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Buffalo Tofu Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 868,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chicken Caesar Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 869,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chicken Fajita Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 870,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chicken Tender Bacon Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 871,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Chik'n Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 872,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Asian Chicken Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 873,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken Bacon Ranch Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 874,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Chicken Buffalo Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 875,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Steak Fajita Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 876,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Two Bean Mexican Wrap",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 877,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Wrap, Blackened Chicken w/Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 878,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Wrap, Spicy Asian Chicken w/Rice",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 879,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "BLT Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 880,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Cheese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 881,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hokie Club Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 882,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Hot Roast Beef & Cheddar Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 883,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Philly Cheesesteak",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 884,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Sandwich, Grilled Ham & Cheese",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 885,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Turkey and Cheese Sandwich",
+    "allergens": [],
+    "ingredients": ""
+  },
+  {
+    "id": 886,
+    "hallName": "West End at Cochrane Hall",
+    "itemName": "Grilled Salmon",
+    "allergens": [],
+    "ingredients": ""
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "safebyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv_to_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlaandujar/SafeByte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karlaandujar/SafeByte/issues"
+  },
+  "homepage": "https://github.com/karlaandujar/SafeByte#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}
