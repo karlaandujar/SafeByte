@@ -23,15 +23,15 @@ const ALLERGEN_WEIGHTS = {
 
 // Hazard keywords in ingredient text
 const HAZARD_KEYWORDS = [
-  { pattern: "may contain", weight: 10 },
-  { pattern: "made in a facility that also processes", weight: 8 },
-  { pattern: "processed in a facility that also handles", weight: 8 },
-  { pattern: "shared fryer", weight: 12 },
-  { pattern: "same fryer", weight: 12 },
-  { pattern: "same equipment", weight: 12 },
-  { pattern: "cross contamination", weight: 12 },
-  { pattern: "cross-contamination", weight: 12 },
-  { pattern: "cannot guarantee", weight: 8 }
+  { pattern: "may contain", weight: 1},
+  { pattern: "made in a facility that also processes", weight: 1 },
+  { pattern: "processed in a facility that also handles", weight: 1 },
+  { pattern: "shared fryer", weight: 1 },
+  { pattern: "same fryer", weight: 1 },
+  { pattern: "same equipment", weight: 1 },
+  { pattern: "cross contamination", weight: 1 },
+  { pattern: "cross-contamination", weight: 1 },
+  { pattern: "cannot guarantee", weight: 1 }
 ];
 
 // Terms to highlight in ingredients
