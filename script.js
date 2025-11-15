@@ -273,24 +273,52 @@ riskFilterSelect.addEventListener("change", renderItems);
 
 // ---------- LOAD DATA ----------
 
-fetch("menuItems.json")
-  .then(res => {
-    if (!res.ok) throw new Error("Failed to load menuItems.json");
-    return res.json();
-  })
-  .then(data => {
-    allItems = data || [];
-    itemsWithRisk = allItems.map(item => ({
-      ...item,
-      risk: computeItemRisk(item)
-    }));
-    hallSummaries = computeHallRisk(itemsWithRisk);
-    populateHallFilter();
-    renderHallOverview();
-    renderItems();
-  })
-  .catch(err => {
-    console.error("Error loading data:", err);
-    itemListDiv.innerHTML =
-      "<p class='muted'>Failed to load menu items. Check the console for details.</p>";
+function populateHallFilter() {
+  // clear any existing options except the first 'All halls'
+  while (hallFilterSelect.options.length > 1) hallFilterSelect.remove(1);
+  const halls = Array.from(new Set(allItems.map(i => i.hallName))).sort();
+  halls.forEach(h => {
+    const opt = document.createElement("option");
+    opt.value = h;
+    opt.textContent = h;
+    hallFilterSelect.appendChild(opt);
   });
+}
+
+function loadData() {
+  // fetch the latest JSON without using cache
+  fetch("menuItems.json", { cache: 'no-store' })
+    .then(res => {
+      if (!res.ok) throw new Error("Failed to load menuItems.json");
+      return res.json();
+    })
+    .then(data => {
+      allItems = data || [];
+      itemsWithRisk = allItems.map(item => ({
+        ...item,
+        risk: computeItemRisk(item)
+      }));
+      hallSummaries = computeHallRisk(itemsWithRisk);
+      populateHallFilter();
+      renderHallOverview();
+      renderItems();
+      console.log(`Loaded ${allItems.length} menu items (fresh fetch).`);
+    })
+    .catch(err => {
+      console.error("Error loading data:", err);
+      itemListDiv.innerHTML =
+        "<p class='muted'>Failed to load menu items. Check the console for details.</p>";
+    });
+}
+
+// expose loadData to be callable from UI
+const refreshBtn = document.getElementById("refreshData");
+if (refreshBtn) refreshBtn.addEventListener("click", () => {
+  refreshBtn.disabled = true;
+  refreshBtn.textContent = "Refreshing...";
+  loadData();
+  setTimeout(() => { refreshBtn.disabled = false; refreshBtn.textContent = "Refresh Data"; }, 800);
+});
+
+// initial load
+loadData();
