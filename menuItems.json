@@ -11,7 +11,7 @@
     "id": 8,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Ranch Dispenser",
-    "allergens": [],
+    "allergens": ["Milk"],
     "ingredients": ""
   },
   {
