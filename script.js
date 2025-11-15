@@ -284,7 +284,48 @@ function populateHallFilter() {
     hallFilterSelect.appendChild(opt);
   });
 }
+function loadData() {
+  // fetch the latest JSON without using cache
+  fetch("menuItems.json", { cache: "no-store" })
+    .then(res => {
+      if (!res.ok) throw new Error("Failed to load menuItems.json");
+      return res.json();
+    })
+    .then(data => {
+      allItems = Array.isArray(data) ? data : [];
+      itemsWithRisk = allItems.map(item => ({
+        ...item,
+        risk: computeItemRisk(item)
+      }));
+      hallSummaries = computeHallRisk(itemsWithRisk);
+      populateHallFilter();
+      renderHallOverview();
+      renderItems();
 
+      // 🔍 SAFE DEBUG LOGS (won't crash)
+      console.log("Total items loaded:", allItems.length);
+
+      const sample = allItems[0];
+      console.log("Sample item:", sample);
+
+      if (sample) {
+        console.log("Sample allergens:", sample.allergens);
+        console.log(
+          "Sample allergen score:",
+          computeAllergenScore(sample.allergens)
+        );
+      } else {
+        console.log("No items available in allItems (empty data).");
+      }
+    })
+    .catch(err => {
+      console.error("Error loading data:", err);
+      itemListDiv.innerHTML =
+        "<p class='muted'>Failed to load menu items. Check the console for details.</p>";
+    });
+}
+
+/*
 function loadData() {
   // fetch the latest JSON without using cache
   fetch("menuItems.json", { cache: 'no-store' })
@@ -302,6 +343,7 @@ function loadData() {
       populateHallFilter();
       renderHallOverview();
       renderItems();
+
       console.log("Sample item:", allItems[0]);
       console.log("Sample allergens:", allItems[0].allergens);
       console.log("Score:", computeAllergenScore(allItems[0].allergens));
@@ -314,7 +356,7 @@ function loadData() {
         "<p class='muted'>Failed to load menu items. Check the console for details.</p>";
     });
 }
-
+*/
 // expose loadData to be callable from UI
 const refreshBtn = document.getElementById("refreshData");
 if (refreshBtn) refreshBtn.addEventListener("click", () => {
