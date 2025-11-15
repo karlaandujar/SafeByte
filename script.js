@@ -305,9 +305,7 @@ function loadData() {
       console.log("Sample item:", allItems[0]);
       console.log("Sample allergens:", allItems[0].allergens);
       console.log("Score:", computeAllergenScore(allItems[0].allergens));
-      const chocMilk = allItems.find(i => i.itemName === "Milk, Chocolate");
-      console.log("Choc milk item:", chocMilk);
-      console.log("Choc milk allergenScore:", computeAllergenScore(chocMilk.allergens));
+      
 
     })
     .catch(err => {
