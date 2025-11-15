@@ -302,7 +302,7 @@ function loadData() {
       populateHallFilter();
       renderHallOverview();
       renderItems();
-      console.log("Data loaded successfully:", itemsWithRisk);
+      console.log(`Loaded ${allItems.length} menu items (fresh fetch).`);
 
     })
     .catch(err => {
