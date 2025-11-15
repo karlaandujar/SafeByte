@@ -4,7 +4,7 @@
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Mayo Dispenser",
     //"allergens": [],
-    "allergens": ["milk"],
+    "allergens": ["Milk"],
     "ingredients": ""
   },
   {
