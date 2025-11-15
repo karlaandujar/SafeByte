@@ -285,8 +285,6 @@ function populateHallFilter() {
   });
 }
 
-
-
 function loadData() {
   // fetch the latest JSON without using cache
   fetch("menuItems.json", { cache: 'no-store' })
@@ -304,9 +302,7 @@ function loadData() {
       populateHallFilter();
       renderHallOverview();
       renderItems();
-
-      console.log(`Loaded ${allItems.length} menu items (fresh fetch).`);
-      
+      console.log("Data loaded successfully:", itemsWithRisk);
 
     })
     .catch(err => {
