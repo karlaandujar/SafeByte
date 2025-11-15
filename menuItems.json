@@ -3,28 +3,28 @@
     "id": 7,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Mayo Dispenser",
-    "allergens": [milk],
+    "allergens": ["milk", "egg"],
     "ingredients": ""
   },
   {
     "id": 8,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Ranch Dispenser",
-    "allergens": [egg],
+    "allergens": [],
     "ingredients": ""
   },
   {
     "id": 16,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "100% Orange Juice",
-    "allergens": [nut],
+    "allergens": [],
     "ingredients": ""
   },
   {
     "id": 17,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Apple Juice",
-    "allergens": [egg],
+    "allergens": [],
     "ingredients": ""
   },
   {
