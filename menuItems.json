@@ -4,14 +4,14 @@
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Mayo Dispenser",
     //"allergens": [],
-    "allergens": ["Milk"],
+    "allergens": [],
     "ingredients": ""
   },
   {
     "id": 8,
     "hallName": "D2 at Dietrick Hall",
     "itemName": "Ranch Dispenser",
-    "allergens": ["Milk"],
+    "allergens": [],
     "ingredients": ""
   },
   {
